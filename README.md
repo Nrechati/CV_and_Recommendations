@@ -6,6 +6,6 @@ Here you will find my **updated CV/Resume** in both french and english.
 
 Last Updates for both CV where made on : 
 
-- **French** : 11/16/2020
+- **French** : 11/16/2020 
 
 - **English** : 02/14/2020
